@@ -4,13 +4,14 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js" 
+    "start": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mongodb": "^7.0.0"
   },
   "devDependencies": {
     "eslint": "^9.38.0",
